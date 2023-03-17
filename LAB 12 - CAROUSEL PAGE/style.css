@@ -1,0 +1,22 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+
+  width: inherit;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  width: 100%;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  width: 100%;
+}
+.lead {
+  display: inline-block;
+}
+.container {
+  margin-top: 20px;
+}
